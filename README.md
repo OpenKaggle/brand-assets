@@ -22,11 +22,15 @@ endorsed by, or sponsored by Kaggle or Google.
 | `assets/openkaggle-square-type-only-left.png` | Square type-only lockup with flush-left two-line wordmark |
 | `assets/openkaggle-clean-white.png` | Light-background documents and presentations |
 | `assets/openkaggle-soft-glow.png` | Secondary banners and editorial surfaces |
+| `reference/source-duck-logo.png` | Original user-supplied reference, retained for provenance rather than as the preferred public mark |
 
 The graduate duck is the stable symbol. The wordmark is always spelled
 `OpenKaggle`, with no space, and uses charcoal plus cyan to separate the open
 community layer from the competition context. In the two-line lockups, `Open`
 and `Kaggle` share one weight and a strict left edge.
+
+The wordmarks are raster studies; no third-party font binary is bundled or
+required. See `SOURCE.md` for the generation and rights boundary.
 
 ## Usage
 
