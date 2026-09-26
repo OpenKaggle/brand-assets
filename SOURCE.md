@@ -6,10 +6,10 @@ Codex built-in image-generation workflow and selected by the project owner.
 
 The preferred horizontal asset uses the exact text `OpenKaggle`. The square
 avatar is a text-free, small-size composition derived from the same visual
-family. The generation workflow re-rendered the illustration; the files in
-this repository are therefore studies rather than pixel-identical edits of the
-input reference.
+family. Two additional square lockups preserve the same wordmark weight with
+`Open` and `Kaggle` on a strict shared left edge. The generation workflow
+re-rendered the illustration; the files in this repository are therefore
+studies rather than pixel-identical edits of the input reference.
 
 No official Kaggle logo asset, brand package, or endorsement is represented by
 this repository.
-

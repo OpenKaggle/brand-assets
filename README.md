@@ -18,12 +18,15 @@ endorsed by, or sponsored by Kaggle or Google.
 | --- | --- |
 | `assets/openkaggle-primary-transparent.png` | Preferred horizontal identity and README header |
 | `assets/openkaggle-square-avatar.png` | Organization avatar and small circular crops |
+| `assets/openkaggle-square-duck-type-left.png` | Square duck-and-type lockup with flush-left two-line wordmark |
+| `assets/openkaggle-square-type-only-left.png` | Square type-only lockup with flush-left two-line wordmark |
 | `assets/openkaggle-clean-white.png` | Light-background documents and presentations |
 | `assets/openkaggle-soft-glow.png` | Secondary banners and editorial surfaces |
 
 The graduate duck is the stable symbol. The wordmark is always spelled
 `OpenKaggle`, with no space, and uses charcoal plus cyan to separate the open
-community layer from the competition context.
+community layer from the competition context. In the two-line lockups, `Open`
+and `Kaggle` share one weight and a strict left edge.
 
 ## Usage
 
@@ -35,4 +38,3 @@ community layer from the competition context.
 
 Contributions and alternate formats are welcome. See `CONTRIBUTING.md` before
 adding a new family member.
-
