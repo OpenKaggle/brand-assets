@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/openkaggle-primary-transparent.png" alt="OpenKaggle graduate-duck wordmark" width="760">
+  <img src="assets/openkaggle-clean-white.png" alt="OpenKaggle graduate-duck wordmark on a white background" width="640">
 </p>
 
 # OpenKaggle brand assets
