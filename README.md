@@ -22,6 +22,7 @@ endorsed by, or sponsored by Kaggle or Google.
 | `assets/openkaggle-square-type-only-left.png` | Square type-only lockup with flush-left two-line wordmark |
 | `assets/openkaggle-clean-white.png` | Light-background documents and presentations |
 | `assets/openkaggle-soft-glow.png` | Secondary banners and editorial surfaces |
+| `assets/openkaggle-join-button-v1.png` | Clickable homepage Join OpenKaggle call-to-action |
 | `reference/source-duck-logo.png` | Original user-supplied reference, retained for provenance rather than as the preferred public mark |
 
 The graduate duck is the stable symbol. The wordmark is always spelled
@@ -36,6 +37,9 @@ required. See `SOURCE.md` for the generation and rights boundary.
 
 - Keep clear space around the mark; do not crowd it with badges or slogans.
 - Use the square avatar where the platform will crop the image into a circle.
+- Use `openkaggle-join-button-v1.png` only as a linked image; the artwork is
+  decorative, so keep a nearby text link or descriptive alt text for keyboard,
+  screen-reader, and image-blocked users.
 - Do not alter the mark to imply official Kaggle or Google endorsement.
 - Preserve provenance when publishing derivatives; see `SOURCE.md` and
   `ASSET_MANIFEST.sha256`.
