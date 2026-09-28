@@ -9,6 +9,10 @@ experiments, research plans, and open data. This repository keeps the visual
 identity inspectable, reusable, and versioned alongside the research community
 it represents.
 
+The small brand phrase is `credo · make it public, make it useful.` It is a
+gentle invitation, not a maturity claim or a promise of leaderboard
+performance.
+
 OpenKaggle is an independent community project and is not affiliated with,
 endorsed by, or sponsored by Kaggle or Google.
 
